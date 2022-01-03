@@ -1,3 +1,1 @@
-### Linear Regression Simple Example
-
-### Линейная регрессия
+### Linear Regression Simple Example - Линейная регрессия
